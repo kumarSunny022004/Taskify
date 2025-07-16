@@ -1,4 +1,4 @@
-package com.taskify.taskify_backend.auth;
+package com.taskify.auth.dto;
 
 import lombok.Data;
 

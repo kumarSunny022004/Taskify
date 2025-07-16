@@ -1,4 +1,4 @@
-package com.taskify.taskify_backend;
+package com.taskify;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

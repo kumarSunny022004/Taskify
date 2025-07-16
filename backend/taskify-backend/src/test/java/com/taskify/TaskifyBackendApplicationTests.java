@@ -1,4 +1,4 @@
-package com.taskify.taskify_backend;
+package com.taskify;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

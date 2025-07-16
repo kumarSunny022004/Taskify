@@ -1,4 +1,4 @@
-package com.taskify.taskify_backend.user;
+package com.taskify.user;
 
 public enum Role {
     USER,
